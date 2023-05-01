@@ -1,0 +1,7 @@
+Paste the diagram that the dude showed in the vid:-
+
+
+
+server --------------------------------------.
+            |             |                  |
+            /            /hello             /form
