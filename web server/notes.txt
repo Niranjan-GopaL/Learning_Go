@@ -5,3 +5,11 @@ Paste the diagram that the dude showed in the vid:-
 server --------------------------------------.
             |             |                  |
             /            /hello             /form
+
+
+HOW TO RUN :-
+
+-go build 
+-go run main.go
+
+this 
